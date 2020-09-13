@@ -1,6 +1,7 @@
 ### Abhishek Bhardwaj
 
 [![linkedin id](https://github.com/abhi907/abhi907/blob/extra/linkedin.png)](https://www.linkedin.com/in/abhishek-bhardwaj-2777831aa/)
+[![gmail id](https://github.com/abhi907/abhi907/blob/extra/gmail.png)](mailto:b218053@iiit-bh.ac.in)
 
 ### Hi there 👋
 

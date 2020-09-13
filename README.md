@@ -1,6 +1,6 @@
 ### Abhishek Bhardwaj
 
-
+[![linkedin](linkedin.png)](https://www.linkedin.com/in/abhishek-bhardwaj-2777831aa/)
 
 ### Hi there 👋
 
